@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oof >_<"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "that was a tough landing"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait, i think i know you from somewhere?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "are you boyfriend and girlfriend?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "be ba"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yup!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nice"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im running a little late for school right now-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ba pa boop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i suppose i can spare a few minutes.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "just to let you know, i suck at rapping"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "like"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "super bad."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pas oh key"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "alright then,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "lets go!"
+		}
+	]
+}

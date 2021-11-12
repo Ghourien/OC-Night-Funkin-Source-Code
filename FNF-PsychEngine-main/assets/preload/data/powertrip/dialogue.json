@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yoooooooo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "ayy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "we popped off at the end bro"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "literally"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "alright this is going to be a little more\\ndifficult"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "alright then"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i really cant think of anymore lyrics but ill\\ntry not to hold back!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "say less bro"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "alright then."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "lets do this >:D"
+		}
+	]
+}

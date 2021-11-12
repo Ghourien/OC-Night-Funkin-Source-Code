@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_AssetsJOOSH.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Josh Idle0000" x="0" y="0" width="319" height="659" pivotX="100.85" pivotY="437.9"/>
+	<SubTexture name="Josh Idle0001" x="0" y="0" width="319" height="659"/>
+	<SubTexture name="Josh Idle0002" x="319" y="0" width="319" height="659"/>
+	<SubTexture name="Josh Idle0003" x="319" y="0" width="319" height="659"/>
+	<SubTexture name="Josh Idle0004" x="638" y="0" width="319" height="659"/>
+	<SubTexture name="Josh Idle0005" x="638" y="0" width="319" height="659"/>
+	<SubTexture name="Josh Idle0006" x="957" y="0" width="319" height="659"/>
+	<SubTexture name="Josh Idle0007" x="957" y="0" width="319" height="659"/>
+	<SubTexture name="Josh Idle0008" x="1276" y="0" width="319" height="659"/>
+	<SubTexture name="Josh Idle0009" x="1276" y="0" width="319" height="659"/>
+	<SubTexture name="Josh Idle0010" x="1276" y="0" width="319" height="659"/>
+	<SubTexture name="Josh Idle0011" x="1276" y="0" width="319" height="659"/>
+	<SubTexture name="Josh Idle0012" x="1595" y="0" width="319" height="659"/>
+	<SubTexture name="Josh Idle0013" x="0" y="659" width="319" height="659"/>
+</TextureAtlas>

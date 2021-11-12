@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Josh Idle",
+	"image": "Menu_AssetsJOOSH",
+	"position": [
+		60,
+		157
+	],
+	"scale": 0.6,
+	"confirm_anim": "M Dad Idle"
+}

@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.055,
+			"portrait": "chasm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello there, boyfriend."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep?"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "chasm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yes, I followed you here with all my pals..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chasm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(except its just me since this\\nis just some weird crossover)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chasm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but uh,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chasm",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Dont act like you arnt Boyfriend."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boop."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chasm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thats just what I thought."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skee do ba boo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chasm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Rap battle?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chasm",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Alright but this is a warmup im a little\\nrusty."
+		}
+	]
+}

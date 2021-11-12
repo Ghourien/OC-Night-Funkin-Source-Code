@@ -1,0 +1,39 @@
+{
+	"storyName": "mAn is behind you",
+	"hideFreeplay": false,
+	"weekBackground": "man",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"man",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"man",
+			"man",
+			[
+				255,
+				193,
+				255
+			]
+		],
+		[
+			"happiness",
+			"man",
+			[
+				255,
+				133,
+				175
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "mAn"
+}

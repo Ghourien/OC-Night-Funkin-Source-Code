@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "holy crap-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you are insane at this"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "thanks"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait you could talk this whole time-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "yuppers"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dude why were you hiding that XD"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i dont know"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "wanna go for another?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sure dude, we gotta make this quick though"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "josh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "if im late one more time i get a lunch detention\\n-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "well thats no good"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lets get started then!"
+		}
+	]
+}

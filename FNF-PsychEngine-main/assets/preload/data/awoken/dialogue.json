@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chasm",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Hm.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chasm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Kid your good."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chasm",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "But I didn't come here to lose.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ba"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chasm",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "UGH"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chasm",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "your mean.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beeeeeep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chasm",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "FINE WE'LL GO ONE MORE TIME"
+		}
+	]
+}

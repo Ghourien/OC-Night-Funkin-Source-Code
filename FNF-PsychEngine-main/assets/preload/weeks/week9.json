@@ -1,0 +1,30 @@
+{
+	"storyName": "The Chaotic beings crossover!",
+	"hideFreeplay": false,
+	"weekBackground": "chasm",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"chasm",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"reaper",
+			"chasm",
+			[
+				0,
+				0,
+				73
+			]
+		]
+	],
+	"weekName": "Chasm Chaos"
+}

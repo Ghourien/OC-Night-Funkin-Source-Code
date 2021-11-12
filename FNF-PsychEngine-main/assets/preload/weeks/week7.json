@@ -1,0 +1,48 @@
+{
+	"storyName": "school chaos",
+	"hideFreeplay": false,
+	"weekBackground": "josh",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"josh",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"lets-roll",
+			"josh",
+			[
+				255,
+				0,
+				93
+			]
+		],
+		[
+			"genesis",
+			"josh",
+			[
+				255,
+				0,
+				93
+			]
+		],
+		[
+			"powertrip",
+			"josh",
+			[
+				255,
+				0,
+				93
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Josh"
+}

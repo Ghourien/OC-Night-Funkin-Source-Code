@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "chasm",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Hey,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chasm",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "TELL YOUR GIRLFRIEND BYE BYE!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chasm",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "HAHAHAHAHHAAH"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "baa..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bep ba boop skee bee"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chasm",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "oh well wasnt that nice."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chasm",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "PREPARE FOR YOUR WORST NIGHTMARE"
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "chasm",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAH\\nHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA\\nHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAH\\nHAHAHAHAHAHAHAHAHAHAHAAHAHAHAHAHAHAHAHAHA\\nAJHHAHAHAHAHAHAAHHAAHHAAHAHAHAHA\\nHAAHAHAHAHAH"
+		}
+	]
+}

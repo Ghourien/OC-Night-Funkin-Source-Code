@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "Idle Newer",
+	"position": [
+		259,
+		310
+	],
+	"scale": 0.35,
+	"image": "Chasm"
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Chasm.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle Newer0000" x="0" y="0" width="889" height="993"/>
+	<SubTexture name="Idle Newer0001" x="889" y="0" width="889" height="993"/>
+	<SubTexture name="Idle Newer0002" x="1778" y="0" width="889" height="993"/>
+	<SubTexture name="Idle Newer0003" x="2667" y="0" width="889" height="993"/>
+	<SubTexture name="Idle Newer0004" x="0" y="993" width="889" height="993"/>
+	<SubTexture name="Idle Newer0005" x="889" y="993" width="889" height="993"/>
+	<SubTexture name="Idle Newer0006" x="1778" y="993" width="889" height="993"/>
+	<SubTexture name="Idle Newer0007" x="2667" y="993" width="889" height="993"/>
+	<SubTexture name="Idle Newer0008" x="0" y="1986" width="889" height="993"/>
+	<SubTexture name="Idle Newer0009" x="889" y="1986" width="889" height="993"/>
+	<SubTexture name="Idle Newer0010" x="1778" y="1986" width="889" height="993"/>
+	<SubTexture name="Idle Newer0011" x="1778" y="1986" width="889" height="993"/>
+</TextureAtlas>

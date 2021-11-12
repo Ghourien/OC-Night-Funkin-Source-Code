@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yonda.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yonda down0000" x="0" y="0" width="347" height="611"/>
+	<SubTexture name="yonda down0001" x="347" y="0" width="347" height="611"/>
+	<SubTexture name="yonda down0002" x="694" y="0" width="347" height="611"/>
+	<SubTexture name="yonda down0003" x="1041" y="0" width="347" height="611"/>
+	<SubTexture name="yonda down0004" x="1041" y="0" width="347" height="611"/>
+	<SubTexture name="yonda down0005" x="1041" y="0" width="347" height="611"/>
+	<SubTexture name="yonda down0006" x="1041" y="0" width="347" height="611"/>
+	<SubTexture name="yonda down0007" x="1041" y="0" width="347" height="611"/>
+	<SubTexture name="yonda down0008" x="1041" y="0" width="347" height="611"/>
+	<SubTexture name="yonda down0009" x="1041" y="0" width="347" height="611"/>
+	<SubTexture name="yonda down0010" x="1041" y="0" width="347" height="611"/>
+	<SubTexture name="yonda down0011" x="1041" y="0" width="347" height="611"/>
+	<SubTexture name="yonda down0012" x="1041" y="0" width="347" height="611"/>
+	<SubTexture name="yonda idle 0000" x="1388" y="0" width="337" height="644"/>
+	<SubTexture name="yonda idle 0001" x="1725" y="0" width="337" height="644"/>
+	<SubTexture name="yonda idle 0002" x="2062" y="0" width="337" height="644"/>
+	<SubTexture name="yonda idle 0003" x="2399" y="0" width="337" height="644"/>
+	<SubTexture name="yonda idle 0004" x="2736" y="0" width="337" height="644"/>
+	<SubTexture name="yonda idle 0005" x="2736" y="0" width="337" height="644"/>
+	<SubTexture name="yonda idle 0006" x="2736" y="0" width="337" height="644"/>
+	<SubTexture name="yonda idle 0007" x="2736" y="0" width="337" height="644"/>
+	<SubTexture name="yonda idle 0008" x="2736" y="0" width="337" height="644"/>
+	<SubTexture name="yonda idle 0009" x="2736" y="0" width="337" height="644"/>
+	<SubTexture name="yonda idle 0010" x="2736" y="0" width="337" height="644"/>
+	<SubTexture name="yonda left0000" x="3073" y="0" width="364" height="627"/>
+	<SubTexture name="yonda left0001" x="3437" y="0" width="364" height="627"/>
+	<SubTexture name="yonda left0002" x="3801" y="0" width="364" height="627"/>
+	<SubTexture name="yonda left0003" x="3801" y="0" width="364" height="627"/>
+	<SubTexture name="yonda left0004" x="3801" y="0" width="364" height="627"/>
+	<SubTexture name="yonda left0005" x="3801" y="0" width="364" height="627"/>
+	<SubTexture name="yonda left0006" x="3801" y="0" width="364" height="627"/>
+	<SubTexture name="yonda left0007" x="3801" y="0" width="364" height="627"/>
+	<SubTexture name="yonda left0008" x="3801" y="0" width="364" height="627"/>
+	<SubTexture name="yonda left0009" x="3801" y="0" width="364" height="627"/>
+	<SubTexture name="yonda right0000" x="4165" y="0" width="346" height="594"/>
+	<SubTexture name="yonda right0001" x="4511" y="0" width="346" height="594"/>
+	<SubTexture name="yonda right0002" x="4857" y="0" width="346" height="594"/>
+	<SubTexture name="yonda right0003" x="4857" y="0" width="346" height="594"/>
+	<SubTexture name="yonda right0004" x="4857" y="0" width="346" height="594"/>
+	<SubTexture name="yonda right0005" x="4857" y="0" width="346" height="594"/>
+	<SubTexture name="yonda right0006" x="4857" y="0" width="346" height="594"/>
+	<SubTexture name="yonda right0007" x="4857" y="0" width="346" height="594"/>
+	<SubTexture name="yonda right0008" x="4857" y="0" width="346" height="594"/>
+	<SubTexture name="yonda right0009" x="4857" y="0" width="346" height="594"/>
+	<SubTexture name="yonda up0000" x="5203" y="0" width="398" height="701"/>
+	<SubTexture name="yonda up0001" x="5601" y="0" width="398" height="701"/>
+	<SubTexture name="yonda up0002" x="5999" y="0" width="398" height="701"/>
+	<SubTexture name="yonda up0003" x="6397" y="0" width="398" height="701"/>
+	<SubTexture name="yonda up0004" x="6795" y="0" width="398" height="701"/>
+	<SubTexture name="yonda up0005" x="6795" y="0" width="398" height="701"/>
+	<SubTexture name="yonda up0006" x="6795" y="0" width="398" height="701"/>
+	<SubTexture name="yonda up0007" x="6795" y="0" width="398" height="701"/>
+	<SubTexture name="yonda up0008" x="6795" y="0" width="398" height="701"/>
+	<SubTexture name="yonda up0009" x="6795" y="0" width="398" height="701"/>
+	<SubTexture name="yonda up0010" x="6795" y="0" width="398" height="701"/>
+	<SubTexture name="yonda up0011" x="6795" y="0" width="398" height="701"/>
+</TextureAtlas>

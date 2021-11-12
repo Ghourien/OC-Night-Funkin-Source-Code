@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 0.649999999999999,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				49,
+				68
+			],
+			"idle_offsets": [
+				49,
+				68
+			],
+			"loop_name": "DialogueNormal",
+			"idle_name": "DialogueNormal"
+		},
+		{
+			"loop_offsets": [
+				65,
+				82
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				64,
+				82
+			],
+			"loop_name": "DialogueEnthusiastic",
+			"idle_name": "DialogueEnthusiastic"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "BF PISSED LOOP",
+			"idle_name": "BF PISSED0"
+		},
+		{
+			"loop_offsets": [
+				14,
+				59
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				14,
+				59
+			],
+			"loop_name": "DialogueSmirk",
+			"idle_name": "DialogueSmirk"
+		}
+	],
+	"image": "Chasm_Dialogue"
+}
